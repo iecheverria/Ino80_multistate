@@ -1,0 +1,58 @@
+/|molecule_name|color|fasta_fn|fasta_id|pdb_fn|chain|residue_range|pdb_offset|bead_size|em_residues_per_gaussian|rigid_body|super_rigid_body|chain_of_super_rigid_bodies|
+
+|tRvb1.0|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|1,120  |0   |10|  |1 |  | ||
+|tRvb1.0|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|121,297|0   |10|  |2 |  | ||
+|tRvb1.0|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|298,462|0   |10|  |1 |  | ||
+|tRvb1.1|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|1,120  |0   |10|  |1 |  | ||
+|tRvb1.1|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|121,297|0   |10|  |3 |  | ||
+|tRvb1.1|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|298,462|0   |10|  |1 |  | ||
+|tRvb1.2|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|1,120  |0   |10|  |1 |  | ||
+|tRvb1.2|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|121,297|0   |10|  |4 |  | ||
+|tRvb1.2|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|298,462|0   |10|  |1 |  | ||
+
+|tRvb2.0|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|1,127  |0   |10|  |1 |  | ||
+|tRvb2.0|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|128,242|0   |10|  |5 |  | ||
+|tRvb2.0|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|243,458|0   |10|  |1 |  | ||
+|tRvb2.1|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|1,127  |0   |10|  |1 |  | ||
+|tRvb2.1|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|128,242|0   |10|  |6 |  | ||
+|tRvb2.1|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|243,458|0   |10|  |1 |  | ||
+|tRvb2.2|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|1,127  |0   |10|  |1 |  | ||
+|tRvb2.2|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|128,242|0   |10|  |7 |  | ||
+|tRvb2.2|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|243,458|0   |10|  |1 |  | ||
+
+|tIes2   |pink         |hINO80_nucl.fasta |IES2_6FML |6fml.pdb |H|1,END|0   |10|  |8 |  | ||
+
+|tIes6   |gold         |hINO80_nucl.fasta |IES6_6FML |6fml.pdb |I|1,END|0   |10|  |9 |  | ||
+
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |6fml.pdb |J|15,20     |97  |10|  |10 |  | ||
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |BEADS    |J|21,42     |97  |10|  |   |  | ||
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |6fml.pdb |J|43,198    |97  |10|  |11 |  | ||
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |BEADS    | |199,202   |97  |10|  |   |  | ||
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |6fml.pdb |J|203,300   |97  |10|  |12 |  | ||
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |BEADS    | |301,470   |97  |10|  |   |  | ||
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |6fml.pdb |J|471,583   |97  |10|  |13 |  | ||
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |BEADS    | |584,602   |97  |10|  |   |  | ||
+|tArp5   |sea green    |hINO80_nucl.fasta|ARP5_6FML |6fml.pdb |J|603,769   |97  |10|  |14 |  | ||
+
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|6fml.pdb |G|964,1210  |0   |10|  |16 |  | ||
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|6fml.pdb |G|1211,1221 |0   |10|  |17 |  | ||
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|6fml.pdb |G|1222,1270 |0   |10|  |18 |  | ||
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|6fml.pdb |G|1271,1552 |0   |10|  |19 |  | ||
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|6fml.pdb |G|1553,1704 |0   |10|  |17 |  | ||
+
+|hH4.0   |lime green   |hINO80_nucl.fasta |hH4       |6fml.pdb |N|1,END  |1 |5 |0 |5 |18 | ||
+|hH4.1   |lime green   |hINO80_nucl.fasta |hH4       |6fml.pdb |R|1,END  |1 |5 |0 |5 |18 | ||
+
+|hH3.0   |medium purple|hINO80_nucl.fasta |hH3       |6fml.pdb |M|1,END  |1 |5 |0 |5 |18 | ||
+|hH3.1   |medium purple|hINO80_nucl.fasta |hH3       |6fml.pdb |Q|1,END  |1 |5 |0 |5 |18 | ||
+
+|hH2A.0  |gold         |hINO80_nucl.fasta |hH2A      |6fml.pdb |O|1,END  |1 |5 |0 |5 |18 | ||
+|hH2A.1  |gold         |hINO80_nucl.fasta |hH2A      |6fml.pdb |S|1,END  |1 |5 |0 |5 |18 | ||
+
+|hH2B.0  |orange       |hINO80_nucl.fasta |hH2B      |6fml.pdb |P|1,END  |1 |5 |0 |5 |18 | ||
+|hH2B.1  |orange       |hINO80_nucl.fasta |hH2B      |6fml.pdb |T|1,END  |1 |5 |0 |5 |18 | ||
+
+|hDNA0   |gray         |hINO80_nucl.fasta |hDNAS,DNA |DNA.pdb  |S|1,144  |0 |1 |0 |5 |18 | ||
+|hDNA1   |gray         |hINO80_nucl.fasta |hDNAS,DNA |DNA.pdb  |T|1,144  |0 |1 |0 |5 |18 | ||
+
+

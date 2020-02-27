@@ -1,0 +1,105 @@
+|molecule_name|color|fasta_fn|fasta_id|pdb_fn|chain|residue_range|pdb_offset|bead_size|em_residues_per_gaussian|rigid_body|super_rigid_body|chain_of_super_rigid_bodies|
+
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |1,471    |0   |30|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |INO80.pdb     |A|472,557  |0   |10|  |1 |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |558,690  |0   |30|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |691,697  |0   |10|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |INO80.pdb     |A|698,933  |0   |10|  |2 |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |934,956  |0   |10|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |INO80.pdb     |A|957,1017 |0   |10|  |3 |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |1018,1037|0   |10|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |1038,1067|0   |30|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |1068,1080|0   |10|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |INO80.pdb     |A|1081,1201|0   |10|  |4 |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |1202,1216|0   |10|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |INO80.pdb     |A|1217,1261|0   |10|  |5 |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |1262,1294|0   |60|  |  |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |INO80.pdb     |A|1295,1450|0   |10|  |6 |  | ||
+|INO80  |coral          |Ino80_nucl1.fasta  |INO80A    |BEADS         | |1451,1489|0   |10|  |  |  | ||
+
+|ACT1   |yellow         |Ino80_nucl1.fasta  |ACT1B     |ACT1.pdb      |B|all      |0   |10|  |7 |  | ||
+
+|ARP4   |olive drab     |Ino80_nucl1.fasta  |ARP4C     |ARP4.pdb      |C|all      |0   |10|  |8 |  | ||
+|ARP8   |green         	|Ino80_nucl1.fasta  |ARP8E     |ARP8.pdb      |E|all      |0   |10|  |9 |  | ||
+
+|ARP5   |turquoise      |Ino80_nucl1.fasta  |ARP5D    |BEADS       |D|1,16     |0   |10|  |  |  | ||
+|ARP5   |turquoise      |Ino80_nucl1.fasta  |ARP5D    |ARP5.pdb    |D|17,22    |0   |10|  |10|  | ||
+|ARP5   |turquoise      |Ino80_nucl1.fasta  |ARP5D    |BEADS       |D|23,36    |0   |10|  |  |  | ||
+|ARP5   |turquoise      |Ino80_nucl1.fasta  |ARP5D    |ARP5.pdb    |D|37,177   |0   |10|  |11|  | ||
+|ARP5   |turquoise      |Ino80_nucl1.fasta  |ARP5D    |ARP5.pdb    |D|178,284  |0   |10|  |12|  | ||
+|ARP5   |turquoise      |Ino80_nucl1.fasta  |ARP5D    |BEADS       |D|285,504  |0   |10|  |  |  | ||
+|ARP5   |turquoise      |Ino80_nucl1.fasta  |ARP5D    |BEADS       |D|505,588  |0   |30|  |  |  | ||
+|ARP5   |turquoise      |Ino80_nucl1.fasta  |ARP5D    |ARP5.pdb    |D|589,739  |0   |10|  |13|  | ||
+
+|IES6   |blue      |Ino80_nucl1.fasta  |IES6L    |BEADS       |L|1,28      |0   |30|  |   |  | ||
+|IES6   |blue      |Ino80_nucl1.fasta  |IES6L    |IES6.pdb    |L|29,40     |0   |10|  |14 |  | ||
+|IES6   |blue      |Ino80_nucl1.fasta  |IES6L    |BEADS       |L|41,60     |0   |30|  |   |  | ||
+|IES6   |blue      |Ino80_nucl1.fasta  |IES6L    |IES6.pdb    |L|61,72     |0   |10|  |15 |  | ||
+|IES6   |blue      |Ino80_nucl1.fasta  |IES6L    |BEADS       |L|73,122    |0   |30|  |   |  | ||
+|IES6   |blue      |Ino80_nucl1.fasta  |IES6L    |IES6.pdb    |L|123,166   |0   |10|  |16 |  | ||
+
+|TAF14  |red            |Ino80_nucl1.fasta  |TAF14X    |TAF14.pdb     |X|1,137  |0   |10|  |17 |  | ||
+|TAF14  |red            |Ino80_nucl1.fasta  |TAF14X    |BEADS         | |138,165|0   |30|  |  |  | ||
+|TAF14  |red            |Ino80_nucl1.fasta  |TAF14X    |TAF14.pdb     |X|166,244|0   |10|  |18 |  | ||
+
+|NHP10  |plum  |Ino80_nucl1.fasta  |NHP10F    |BEADS         |F|1,99   |0   |30|  |   |  | ||
+|NHP10  |plum  |Ino80_nucl1.fasta  |NHP10F    |NHP10.pdb     |F|100,109|0   |10|  |19 |  | ||
+|NHP10  |plum  |Ino80_nucl1.fasta  |NHP10F    |NHP10.pdb     |F|110,166|0   |10|  |20 |  | ||
+|NHP10  |plum  |Ino80_nucl1.fasta  |NHP10F    |BEADS         |F|167,203|0   |10|  |   |  | ||
+
+|RVB1.0 |magenta        |Ino80_nucl1.fasta  |RVB1M     |RVB1.pdb      |M|1,126  |0   |10|  |21 |  | ||
+|RVB1.0 |magenta        |Ino80_nucl1.fasta  |RVB1M     |RVB1.pdb      |M|127,233|0   |10|  |22 |  | ||
+|RVB1.0 |magenta        |Ino80_nucl1.fasta  |RVB1M     |RVB1.pdb      |M|234,463|0   |10|  |21 |  | ||
+|RVB1.1 |magenta        |Ino80_nucl1.fasta  |RVB1N     |RVB1.pdb      |N|1,126  |0   |10|  |21 |  | ||
+|RVB1.1 |magenta        |Ino80_nucl1.fasta  |RVB1N     |RVB1.pdb      |N|127,233|0   |10|  |23 |  | ||
+|RVB1.1 |magenta        |Ino80_nucl1.fasta  |RVB1N     |RVB1.pdb      |N|234,463|0   |10|  |21 |  | ||
+|RVB1.2 |magenta        |Ino80_nucl1.fasta  |RVB1O     |RVB1.pdb      |O|1,126  |0   |10|  |21 |  | ||
+|RVB1.2 |magenta        |Ino80_nucl1.fasta  |RVB1O     |RVB1.pdb      |O|127,233|0   |10|  |24 |  | ||
+|RVB1.2 |magenta        |Ino80_nucl1.fasta  |RVB1O     |RVB1.pdb      |O|234,463|0   |10|  |21 |  | ||
+|RVB2.0 |purple         |Ino80_nucl1.fasta  |RVB2P     |RVB2.pdb      |P|1,133  |0   |10|  |21 |  | ||
+|RVB2.0 |purple         |Ino80_nucl1.fasta  |RVB2P     |RVB2.pdb      |P|134,237|0   |10|  |25 |  | ||
+|RVB2.0 |purple         |Ino80_nucl1.fasta  |RVB2P     |RVB2.pdb      |P|238,471|0   |10|  |21 |  | ||
+|RVB2.1 |purple         |Ino80_nucl1.fasta  |RVB2Q     |RVB2.pdb      |Q|1,133  |0   |10|  |21 |  | ||
+|RVB2.1 |purple         |Ino80_nucl1.fasta  |RVB2Q     |RVB2.pdb      |Q|134,237|0   |10|  |26 |  | ||
+|RVB2.1 |purple         |Ino80_nucl1.fasta  |RVB2Q     |RVB2.pdb      |Q|238,471|0   |10|  |21 |  | ||
+|RVB2.2 |purple         |Ino80_nucl1.fasta  |RVB2R     |RVB2.pdb      |R|1,133  |0   |10|  |21 |  | ||
+|RVB2.2 |purple         |Ino80_nucl1.fasta  |RVB2R     |RVB2.pdb      |R|134,237|0   |10|  |27 |  | ||
+|RVB2.2 |purple         |Ino80_nucl1.fasta  |RVB2R     |RVB2.pdb      |R|238,471|0   |10|  |21 |  | ||
+
+|IES1   |orange red     |Ino80_nucl1.fasta  |IES1Z     |BEADS         | |1,120  |    |60|  | |  | ||
+|IES1   |orange red     |Ino80_nucl1.fasta  |IES1Z     |BEADS         | |121,240|    |30|  | |  | ||
+|IES1   |orange red     |Ino80_nucl1.fasta  |IES1Z     |BEADS         | |241,360|    |60|  | |  | ||
+|IES1   |orange red     |Ino80_nucl1.fasta  |IES1Z     |BEADS         | |361,692|    |30|  | |  | ||
+
+
+|IES2   |cyan     	|Ino80_nucl1.fasta  |IES2H     |BEADS         | |1,60    |    |60|  | |  | ||
+|IES2   |cyan           |Ino80_nucl1.fasta  |IES2H     |BEADS         | |61,320  |    |30|  | |  | ||
+
+
+|IES3   |light sea green|Ino80_nucl1.fasta  |IES3I     |BEADS         | |1,60    |    |60|  | |  | ||
+|IES3   |light sea green|Ino80_nucl1.fasta  |IES3I     |BEADS         | |61,240  |    |30|  | |  | ||
+|IES3   |light sea green|Ino80_nucl1.fasta  |IES3I     |BEADS         | |241,250 |    |10|  | |  | ||
+
+
+|IES4   |cornflower blue|Ino80_nucl1.fasta  |IES4J     |BEADS         | |1,60    |    |60|  | |  | ||
+|IES4   |cornflower blue|Ino80_nucl1.fasta  |IES4J     |BEADS         | |61,116  |    |30|  | |  | ||
+
+
+|IES5   |hot pink       |Ino80_nucl1.fasta  |IES5K     |BEADS         | |1,30    |    |30|  | |  | ||
+|IES5   |hot pink       |Ino80_nucl1.fasta  |IES5K     |BEADS         | |31,125  |    |60|  | |  | ||
+
+|yH4.0   |lime green   |Ino80_nucl1.fasta |yH4      |hybrid_nuc_yeast.pdb |B|1,END    |1 |5 |0 |4 |  | ||
+|yH4.1   |lime green   |Ino80_nucl1.fasta |yH4      |hybrid_nuc_yeast.pdb |F|1,END    |1 |5 |0 |4 |  | ||
+
+|yH3.0   |medium purple|Ino80_nucl1.fasta |yH3      |hybrid_nuc_yeast.pdb |A|1,END    |1 |5 |0 |4 |  | ||
+|yH3.1   |medium purple|Ino80_nucl1.fasta |yH3      |hybrid_nuc_yeast.pdb |E|1,END    |1 |5 |0 |4 |  | ||
+
+|yH2A.0  |gold         |Ino80_nucl1.fasta |yH2A     |hybrid_nuc_yeast.pdb |C|1,END    |1 |5 |0 |4 |  | ||
+|yH2A.1  |gold         |Ino80_nucl1.fasta |yH2A     |hybrid_nuc_yeast.pdb |G|1,END    |1 |5 |0 |4 |  | ||
+
+|yH2B.0  |orange       |Ino80_nucl1.fasta |yH2B     |hybrid_nuc_yeast.pdb |D|1,END    |1 |5 |0 |4 |  | ||
+|yH2B.1  |orange       |Ino80_nucl1.fasta |yH2B     |hybrid_nuc_yeast.pdb |H|1,END    |1 |5 |0 |4 |  | ||
+
+|yDNA0   |gray         |Ino80_nucl1.fasta |yDNAS,DNA|DNA.pdb              |S|1,144    |0 |1 |0 |4 |  | ||
+|yDNA1   |gray         |Ino80_nucl1.fasta |yDNAS,DNA|DNA.pdb              |T|1,144    |0 |1 |0 |4 |  | ||
+

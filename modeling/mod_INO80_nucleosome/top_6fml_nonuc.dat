@@ -1,0 +1,23 @@
+/|molecule_name|color|fasta_fn|fasta_id|pdb_fn|chain|residue_range|pdb_offset|bead_size|em_residues_per_gaussian|rigid_body|super_rigid_body|chain_of_super_rigid_bodies|
+
+|tRvb1.0|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|A|1,END|0   |10|  |1 |  | ||
+|tRvb1.1|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|B|1,END|0   |10|  |1 |  | ||
+|tRvb1.2|light blue   |hINO80_nucl.fasta |RUVB1_6FML |6fml.pdb|C|1,END|0   |10|  |1 |  | ||
+
+|tRvb2.0|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|D|1,END|0   |10|  |1 |  | ||
+|tRvb2.1|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|E|1,END|0   |10|  |1 |  | ||
+|tRvb2.2|steel blue   |hINO80_nucl.fasta |RUVB2_6FML |6fml.pdb|F|1,END|0   |10|  |1 |  | ||
+
+|tIes2   |pink         |hINO80_nucl.fasta |IES2_6FML |6fml.pdb |H|1,END|0   |10|  |2 |  | ||
+
+|tIes6   |gold         |hINO80_nucl.fasta |IES6_6FML |6fml.pdb |I|1,END|0   |10|  |3 |  | ||
+
+|tArp5   |sea green    |hINO80_nucl.fasta |ARP5_6FML |6fml.pdb |J|1,769|0   |10|  |4 |  | ||
+
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|6fml.pdb |G|964,1275  |0   |10|  |6 |  | ||
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|BEADS    | |1276,1280 |0   |10|  |  |  | ||
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|6fml.pdb |G|1281,1514 |0   |10|  |7 |  | ||
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|BEADS    | |1515,1549 |0   |10|  |  |  | ||
+|tIno80 |coral        |hINO80_nucl.fasta  |INO80_6FML|6fml.pdb |G|1550,1704 |0   |10|  |8 |  | ||
+
+
